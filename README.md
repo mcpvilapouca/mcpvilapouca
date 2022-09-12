@@ -9,8 +9,12 @@ I'm a Mechanical Engineer from Porto, Portugal. I finished my PhD in March 2022 
 
 As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and I started surfing lessons last summer 🛼 🏄.
 
-### Tech Stach
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
