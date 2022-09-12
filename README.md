@@ -10,6 +10,10 @@ My aim now is to become a Data Scientist 📈👩🏽‍🔬 ! I really enjoy to
 
 As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and I started surfing lessons last summer 🛼 🏄.
 
+💬 &nbsp;Feel free to reach out to me for consulting or some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at mcpvilapouca@gmail.com!\
+📄 &nbsp;Please, checkout my [CV]() for more details about me.
+
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Python](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
@@ -25,6 +29,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![ABAQUS](https://custom-icon-badges.demolab.com/badge/ABAQUS-05122A.svg?logo=abaqus-logo)&nbsp;
+
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
