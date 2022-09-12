@@ -10,7 +10,7 @@ I'm a Mechanical Engineer from Porto, Portugal. I finished my PhD in March 2022 
 As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and I started surfing lessons last summer 🛼 🏄.
 
 ### Tech Stach
-[![Python Badge]
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
