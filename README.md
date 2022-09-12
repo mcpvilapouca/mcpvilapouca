@@ -17,7 +17,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 ![Python](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Python](https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Python](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Matlab](https://custom-icon-badges.demolab.com/badge/Matlab-05122A.svg?logo=matlab-maria-logo)&nbsp;
+![Matlab](https://custom-icon-badges.demolab.com/badge/Matlab-05122A.svg?logo=matlab-maria-logo)\
 ![Fortran](https://custom-icon-badges.demolab.com/badge/Fortran-05122A.svg?logo=fortran-logo)&nbsp;
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-05122A.svg?logo=database-logo)&nbsp;
 ![bash](https://custom-icon-badges.demolab.com/badge/bash-05122A.svg?logo=bash)&nbsp;
