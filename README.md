@@ -17,7 +17,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Matlab](https://custom-icon-badges.demolab.com/badge/Matlab-05122A.svg?logo=matlab-maria-logo)&nbsp;
 ![Fortran](https://custom-icon-badges.demolab.com/badge/Fortran-05122A.svg?logo=fortran-logo)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-05122A.svg?logo=SQL-logo)&nbsp;
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
