@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mcpvilapouca.github.io/">
-    <img src=[Portfolio]"https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"/>
+    <img src=https://badgen.net/badge/:subject/:Portfolio/:orange?icon=chrome" alt="Portfolio"/>
 </div>
 
 <!--
