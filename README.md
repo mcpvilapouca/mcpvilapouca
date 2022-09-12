@@ -13,7 +13,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Python](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Python](https://img.shields.io/badge/-scikit learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Python](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)&nbsp;
 ![Python](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Python](https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Python](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
