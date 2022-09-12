@@ -18,7 +18,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat&logo=abaquscae)&nbsp;
+![ABAQUS](https://img.shields.io/badge/-ABAQUS-05122A?style=flat&logo=abaqus-logo)&nbsp;
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
