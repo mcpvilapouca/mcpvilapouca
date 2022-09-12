@@ -6,12 +6,13 @@
 ### Nice to see you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mcpvilapouca.mcpvilapouca&style=flat-square&color=ffa600)
 
 
-<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/95075305/189731694-0889f280-f9b4-4191-af1e-12dfe8ca2b84.gif" />
-
 I'm a Mechanical Engineer from Porto, Portugal. I finished my PhD in March 2022 👩🏽‍🎓 and I'm currrently working as a postoctoral researcher. \\
 During my PhD, I discovered my passion for programming 👩🏽‍💻 I started to dedicate my free time to improve my skills python 🐍 and 
 learn machine learning techiques 💻🌱 \
 \
+
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/95075305/189731694-0889f280-f9b4-4191-af1e-12dfe8ca2b84.gif" />
+
 My aim now is to become a Data Scientist 📈👩🏽‍🔬!\
 I really enjoy to learn and be challenged and I'm excited with the future.
 
