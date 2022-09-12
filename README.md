@@ -1,12 +1,7 @@
 ### Hi 👋, my name is Maria Vila Pouca 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/maria-vila-pouca-76551a11a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mcpvilapouca.github.io/">
-    <img src="https://badgen.net/badge/icon/Portfolio/color/orange/icon=chrome&label" alt="Portfolio"/>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vila-pouca-76551a11a/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mcpvilapouca.github.io/)
 
 <!--
 **mcpvilapouca/mcpvilapouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
