@@ -12,7 +12,7 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 
 💬 &nbsp;Feel free to reach out to me for consulting or some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mcpvilapouca@gmail.com!\
-📄 &nbsp;Please, checkout my [CV](https://downgit.github.io/#/home?url=https://github.com/mcpvilapouca/mcpvilapouca/blob/main/CV_Maria.pdf) for more details about me.
+📄 &nbsp;Please, checkout my [CV](https://github.com/mcpvilapouca/mcpvilapouca/raw/main/CV_Maria.pdf) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
