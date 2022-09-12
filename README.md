@@ -5,12 +5,18 @@
 
 ### Nice to see you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mcpvilapouca.mcpvilapouca&style=flat-square&color=ffa600)
 
-I'm a Mechanical Engineer from Porto, Portugal. I finished my PhD in March 2022 👩🏽‍🎓 and I'm currrently working as a postoctoral researcher at INEGI. During my PhD, I discovered my passion for programming 👩🏽‍💻 I started to dedicate my free time to improve my skills python 🐍 and learn machine learning techiques 💻🌱 and my aim now is to become a Data Scientist 📈👩🏽‍🔬 ! I really enjoy to learn and be challenged and I'm excited with the future.
+I'm a Mechanical Engineer from Porto, Portugal. I finished my PhD in March 2022 👩🏽‍🎓 and I'm currrently working as a postoctoral researcher. During my PhD, I discovered my passion for programming 👩🏽‍💻 I started to dedicate my free time to improve my skills python 🐍 and learn machine learning techiques 💻🌱 
+My aim now is to become a Data Scientist 📈👩🏽‍🔬 ! I really enjoy to learn and be challenged and I'm excited with the future.
 
 As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and I started surfing lessons last summer 🛼 🏄.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Python](https://img.shields.io/badge/-scikit learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Python](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Python](https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Python](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Matlab](https://custom-icon-badges.demolab.com/badge/Matlab-05122A.svg?logo=matlab-maria-logo)&nbsp;
 ![Fortran](https://custom-icon-badges.demolab.com/badge/Fortran-05122A.svg?logo=fortran-logo)&nbsp;
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-05122A.svg?logo=database-logo)&nbsp;
