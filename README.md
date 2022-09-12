@@ -1,8 +1,7 @@
 ### Hi 👋, my name is [Maria Vila Pouca!](https://github.com/mcpvilapouca/)👩🏽‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vila-pouca-76551a11a/)
-<!--[![Website Badge](https://img.shields.io/badge/Portfolio-a1be6c?style=flat-square&logo=google-chrome&logoColor=white)](https://mcpvilapouca.github.io/)-->
-[![Portefolio](https://custom-icon-badges.demolab.com/badge/Portfolio-05122A.svg?logo=book-logo)](https://mcpvilapouca.github.io/)
+[![Portefolio](https://custom-icon-badges.demolab.com/badge/Portfolio-003f5c.svg?logo=book-logo)](https://mcpvilapouca.github.io/)
 
 ### Nice to see you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mcpvilapouca.mcpvilapouca&style=flat-square&color=fbbc64)
 
