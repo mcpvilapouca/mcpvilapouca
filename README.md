@@ -18,8 +18,8 @@ As for hobbies, I love to read 📚 and I was an artistic rollerskater for more 
 
 💬 &nbsp;Feel free to reach out to me for consulting, some interesting discussion or project ideas.\
 ✉️ &nbsp;You can shoot me an email at mcpvilapouca@gmail.com!\
-📄 &nbsp;Please, checkout my [CV](https://github.com/mcpvilapouca/mcpvilapouca/raw/main/CV_Maria.pdf) for more details about me.
-📘 &nbsp;Check out my publications in my [Research Gate](https://www.researchgate.net/profile/Maria-Vila-Pouca/research) profile
+📄 &nbsp;Please, checkout my [CV](https://github.com/mcpvilapouca/mcpvilapouca/raw/main/CV_Maria.pdf) for more details about me.\
+📘 &nbsp;You can see my publications in my [Research Gate](https://www.researchgate.net/profile/Maria-Vila-Pouca/research) profile
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
