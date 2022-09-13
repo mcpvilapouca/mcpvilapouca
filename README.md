@@ -12,13 +12,14 @@ learn machine learning techiques 💻🌱
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/95075305/189731694-0889f280-f9b4-4191-af1e-12dfe8ca2b84.gif" />
 
-My aim now is to become a Data Scientist 📈👩🏽‍🔬! I really enjoy to learn and be challenged and I'm excited with the future.
+My aim now is to become a Data Scientist 📈👩🏽‍🔬! I really enjoy learning and be challenged and I'm also looking forward to apply my knowledge to solve real world problems.
 
-As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and I started surfing lessons last summer 🛼 🏄.
+As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and started surfing lessons last summer 🛼 🏄.
 
-💬 &nbsp;Feel free to reach out to me for consulting or some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting, some interesting discussion or project ideas.\
 ✉️ &nbsp;You can shoot me an email at mcpvilapouca@gmail.com!\
 📄 &nbsp;Please, checkout my [CV](https://github.com/mcpvilapouca/mcpvilapouca/raw/main/CV_Maria.pdf) for more details about me.
+📘 &nbsp;Check out my publications in my [Research Gate](https://www.researchgate.net/profile/Maria-Vila-Pouca/research) profile
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
