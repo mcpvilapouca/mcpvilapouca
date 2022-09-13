@@ -12,7 +12,7 @@ learn machine learning techiques 💻🌱
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/95075305/189731694-0889f280-f9b4-4191-af1e-12dfe8ca2b84.gif" />
 
-My aim now is to become a Data Scientist 📈👩🏽‍🔬! I really enjoy learning and be challenged and I'm also looking forward to apply my knowledge to solve real world problems.
+I really enjoy learning and be challenged and I'm also looking forward to apply my knowledge to solve real world problems.
 
 As for hobbies, I love to read 📚 and I was an artistic rollerskater for more than 15 years. Now I love to run and started surfing lessons last summer 🛼 🏄.
 
